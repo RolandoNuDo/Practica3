@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Practica 3</string>
+    <string name="txt.name.hint">Ingrese un valor</string>
+    <string name="btn.name.calcular">Calcular</string>
+</resources>
